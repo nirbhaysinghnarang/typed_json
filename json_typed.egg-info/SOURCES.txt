@@ -1,7 +1,0 @@
-README.md
-setup.py
-json_typed.egg-info/PKG-INFO
-json_typed.egg-info/SOURCES.txt
-json_typed.egg-info/dependency_links.txt
-json_typed.egg-info/requires.txt
-json_typed.egg-info/top_level.txt
